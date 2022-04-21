@@ -1,0 +1,15 @@
+h2{
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+.new{
+    display: flex;
+    margin-top: 25px;
+}
+.dateE{
+  width: 250px;
+}
+
+.university, .Experience{
+    margin-left: 20px;
+}
